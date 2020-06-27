@@ -1,1 +1,1 @@
-require "bundler/fast_git_source"
+require "bundler/source/fast_git"
