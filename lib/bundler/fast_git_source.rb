@@ -19,7 +19,7 @@ module Bundler
     end
 
     class Plugin < Bundler::Plugin::API
-      source "fast_git_source"
+      source "fast_git", Source
     end
 
     class Error < StandardError; end
