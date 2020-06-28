@@ -1,11 +1,11 @@
-# Bundler::Source::FastGit
+# Bundler::FastGit
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-plugin 'bundler-source-fast_git'
+plugin 'bundler-fast_git'
 ```
 
 And then execute:
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install bundler-source-fast_git
+    $ gem install bundler-fast_git
 
 ## Usage
 
@@ -28,7 +28,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/mtsmfm/bundler-source-fast_git. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/mtsmfm/bundler-source-fast_git/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/mtsmfm/bundler-fast_git. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/mtsmfm/bundler-fast_git/blob/master/CODE_OF_CONDUCT.md).
 
 
 ## License
@@ -37,4 +37,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Bundler::FastGitSource project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/mtsmfm/bundler-source-fast_git/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Bundler::FastGit project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/mtsmfm/bundler-fast_git/blob/master/CODE_OF_CONDUCT.md).
