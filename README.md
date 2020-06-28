@@ -1,4 +1,4 @@
-# Bundler::FastGit
+# bundler-fast_git
 
 ## Installation
 
@@ -12,13 +12,15 @@ And then execute:
 
     $ bundle install
 
-Or install it yourself as:
-
-    $ gem install bundler-fast_git
-
 ## Usage
 
-TODO: Write usage instructions here
+Just use `git` option as usual.
+
+```ruby
+gem "rails", git: "https://github.com/rails/rails"
+# or
+# gem "rails", github: "rails/rails"
+```
 
 ## Development
 
